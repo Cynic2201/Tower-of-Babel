@@ -2,9 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 7C63B731
 /// @DnDArgument : "var" "meleeChosen"
-/// @DnDArgument : "not" "1"
-/// @DnDArgument : "value" "true"
-if(!(meleeChosen == true))
+/// @DnDArgument : "value" "false"
+if(meleeChosen == false)
 {
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
