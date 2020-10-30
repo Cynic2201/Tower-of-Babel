@@ -19,8 +19,8 @@ if(canShoot == true)
 	/// @DnDVersion : 1
 	/// @DnDHash : 5BABD49F
 	/// @DnDParent : 7621F16F
-	/// @DnDArgument : "steps" "15"
-	alarm_set(0, 15);
+	/// @DnDArgument : "steps" "shootSpeed"
+	alarm_set(0, shootSpeed);
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
