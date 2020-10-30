@@ -1,10 +1,10 @@
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 676C900C
-/// @DnDApplyTo : {playerObject}
-/// @DnDArgument : "steps" "shootSpeed"
+/// @DnDApplyTo : {swordObject}
+/// @DnDArgument : "steps" "playerObject.shootSpeed"
 /// @DnDArgument : "alarm" "1"
-with(playerObject) {
-alarm_set(1, shootSpeed);
+with(swordObject) {
+alarm_set(1, playerObject.shootSpeed);
 
 }
