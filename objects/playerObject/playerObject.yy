@@ -28,11 +28,10 @@
     {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"playerObject","path":"objects/playerObject/playerObject.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":90,"eventType":5,"collisionObjectId":null,"parent":{"name":"playerObject","path":"objects/playerObject/playerObject.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"playerObject","path":"objects/playerObject/playerObject.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"playerObject","path":"objects/playerObject/playerObject.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":3,"value":"true","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"canShoot","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":0,"value":"30","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"shootSpeed","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":3,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"meleeChosen","tags":[],"resourceType":"GMObjectProperty",},
   ],
   "overriddenProperties": [],
   "parent": {
