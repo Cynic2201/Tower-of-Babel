@@ -22,6 +22,6 @@ instance_create_layer(683, 384, "Instances", nextRoom);
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 7747065E
-/// @DnDArgument : "expr" "false"
-/// @DnDArgument : "var" "meleeChosen"
-meleeChosen = false;
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "controller.gunChosen"
+controller.gunChosen = true;

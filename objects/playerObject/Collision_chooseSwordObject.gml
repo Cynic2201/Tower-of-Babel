@@ -23,5 +23,5 @@ instance_create_layer(683, 384, "Instances", nextRoom);
 /// @DnDVersion : 1
 /// @DnDHash : 7747065E
 /// @DnDArgument : "expr" "true"
-/// @DnDArgument : "var" "meleeChosen"
-meleeChosen = true;
+/// @DnDArgument : "var" "controller.meleeChosen"
+controller.meleeChosen = true;

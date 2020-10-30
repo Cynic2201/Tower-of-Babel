@@ -14,7 +14,7 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"playerObject","path":"objects/playerObject/playerObject.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.96875,"scaleY":3.96874976,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":640.0,"resourceVersion":"1.0","name":"inst_3B1CBC06","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"playerObject","path":"objects/playerObject/playerObject.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.968,"scaleY":3.968,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":640.0,"resourceVersion":"1.0","name":"inst_7A9520BB","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"wallObject","path":"objects/wallObject/wallObject.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":0.0,"resourceVersion":"1.0","name":"inst_177833F2","tags":[],"resourceType":"GMRInstance",},
@@ -88,7 +88,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_3B1CBC06","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_177833F2","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7A4CF45","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_56003ED7","path":"rooms/Room1/Room1.yy",},
@@ -153,6 +152,7 @@
     {"name":"inst_4BC535A9","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5C0F1472","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_3A99362C","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_7A9520BB","path":"rooms/Room1/Room1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
