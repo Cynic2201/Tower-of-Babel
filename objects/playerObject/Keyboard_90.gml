@@ -43,8 +43,14 @@ if(!(meleeChosen == true))
 
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1
-/// @DnDHash : 59752322
+/// @DnDHash : 07690646
 else
 {
-
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 2C757A38
+	/// @DnDParent : 07690646
+	/// @DnDArgument : "objectid" "swordObject"
+	/// @DnDSaveInfo : "objectid" "swordObject"
+	instance_create_layer(0, 0, "Instances", swordObject);
 }
