@@ -1,8 +1,13 @@
 {
   "resources": [
+    {"id":{"name":"nextRoom","path":"objects/nextRoom/nextRoom.yy",},"order":6,},
+    {"id":{"name":"RoomWeapon","path":"rooms/RoomWeapon/RoomWeapon.yy",},"order":1,},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":15,},
+    {"id":{"name":"chooseGunObject","path":"objects/chooseGunObject/chooseGunObject.yy",},"order":4,},
     {"id":{"name":"spr_Bullet","path":"sprites/spr_Bullet/spr_Bullet.yy",},"order":4,},
+    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":16,},
     {"id":{"name":"wallObject","path":"objects/wallObject/wallObject.yy",},"order":1,},
+    {"id":{"name":"chooseSwordObject","path":"objects/chooseSwordObject/chooseSwordObject.yy",},"order":5,},
     {"id":{"name":"spr_PlayerRight","path":"sprites/spr_PlayerRight/spr_PlayerRight.yy",},"order":0,},
     {"id":{"name":"spr_PlayerUp","path":"sprites/spr_PlayerUp/spr_PlayerUp.yy",},"order":6,},
     {"id":{"name":"spr_PlayerDown","path":"sprites/spr_PlayerDown/spr_PlayerDown.yy",},"order":7,},
@@ -30,6 +35,7 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"RoomWeapon","path":"rooms/RoomWeapon/RoomWeapon.yy",},
     {"name":"Room1","path":"rooms/Room1/Room1.yy",},
   ],
   "Folders": [
