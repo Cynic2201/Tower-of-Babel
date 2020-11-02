@@ -112,3 +112,21 @@ else
 	/// @DnDArgument : "speed" ".4"
 	image_speed = .4;
 }
+
+/// @DnDAction : YoYo Games.Instance Variables.If_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 60D48C82
+/// @DnDApplyTo : {controller}
+/// @DnDArgument : "op" "3"
+with(controller) {
+if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
+var l60D48C82_0 = __dnd_lives <= 0;
+}
+if(l60D48C82_0)
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 6AF94F8F
+	/// @DnDParent : 60D48C82
+	instance_destroy();
+}
