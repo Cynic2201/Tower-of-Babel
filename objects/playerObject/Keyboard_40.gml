@@ -14,3 +14,10 @@ y += controller.moveSpeed;
 /// @DnDSaveInfo : "spriteind" "spr_PlayerDown"
 sprite_index = spr_PlayerDown;
 image_index += 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5AB70BD1
+/// @DnDArgument : "expr" "2"
+/// @DnDArgument : "var" "playerDir"
+playerDir = 2;

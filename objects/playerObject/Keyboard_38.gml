@@ -14,3 +14,9 @@ y += -controller.moveSpeed;
 /// @DnDSaveInfo : "spriteind" "spr_PlayerUp"
 sprite_index = spr_PlayerUp;
 image_index += 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 464231CD
+/// @DnDArgument : "var" "playerDir"
+playerDir = 0;
