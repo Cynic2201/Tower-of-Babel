@@ -17,6 +17,6 @@ image_index += 0;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 57932557
-/// @DnDArgument : "expr" "4"
+/// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "playerDir"
-playerDir = 4;
+playerDir = 1;
