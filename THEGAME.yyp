@@ -8,6 +8,7 @@
     {"id":{"name":"chooseGunObject","path":"objects/chooseGunObject/chooseGunObject.yy",},"order":4,},
     {"id":{"name":"spr_Speed","path":"sprites/spr_Speed/spr_Speed.yy",},"order":10,},
     {"id":{"name":"spr_Bullet","path":"sprites/spr_Bullet/spr_Bullet.yy",},"order":4,},
+    {"id":{"name":"spr_Stairs","path":"sprites/spr_Stairs/spr_Stairs.yy",},"order":14,},
     {"id":{"name":"spr_FireRate","path":"sprites/spr_FireRate/spr_FireRate.yy",},"order":11,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":16,},
     {"id":{"name":"wallObject","path":"objects/wallObject/wallObject.yy",},"order":1,},

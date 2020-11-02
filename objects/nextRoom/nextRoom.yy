@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_PlayerUp",
-    "path": "sprites/spr_PlayerUp/spr_PlayerUp.yy",
+    "name": "spr_Stairs",
+    "path": "sprites/spr_Stairs/spr_Stairs.yy",
   },
   "solid": false,
   "visible": true,
