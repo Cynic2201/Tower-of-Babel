@@ -19,7 +19,7 @@
     {"id":{"name":"spr_PlayerUp","path":"sprites/spr_PlayerUp/spr_PlayerUp.yy",},"order":6,},
     {"id":{"name":"spr_PlayerDown","path":"sprites/spr_PlayerDown/spr_PlayerDown.yy",},"order":7,},
     {"id":{"name":"spr_PlayerLeft","path":"sprites/spr_PlayerLeft/spr_PlayerLeft.yy",},"order":5,},
-    {"id":{"name":"enemy1","path":"objects/enemy1/enemy1.yy",},"order":12,},
+    {"id":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"order":12,},
     {"id":{"name":"spr_life","path":"sprites/spr_life/spr_life.yy",},"order":9,},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},"order":15,},
     {"id":{"name":"spr_Sword","path":"sprites/spr_Sword/spr_Sword.yy",},"order":8,},
