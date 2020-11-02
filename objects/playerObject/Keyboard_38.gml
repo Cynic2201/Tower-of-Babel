@@ -20,3 +20,17 @@ image_index += 0;
 /// @DnDHash : 464231CD
 /// @DnDArgument : "var" "playerDir"
 playerDir = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6E67C035
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "moving"
+moving = true;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 21DFD8C2
+/// @DnDArgument : "steps" "2"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 2);
