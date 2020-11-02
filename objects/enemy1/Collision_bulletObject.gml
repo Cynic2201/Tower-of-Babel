@@ -11,3 +11,15 @@ enemyHealth += -controller.playerDamage;
 /// @DnDHash : 6D3EF24F
 /// @DnDApplyTo : other
 with(other) instance_destroy();
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 51FB1542
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "isImmune"
+isImmune = true;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 2A0A6A07
+alarm_set(0, 30);
