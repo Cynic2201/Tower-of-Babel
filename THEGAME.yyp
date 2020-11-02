@@ -12,6 +12,7 @@
     {"id":{"name":"spr_PlayerUp","path":"sprites/spr_PlayerUp/spr_PlayerUp.yy",},"order":6,},
     {"id":{"name":"spr_PlayerDown","path":"sprites/spr_PlayerDown/spr_PlayerDown.yy",},"order":7,},
     {"id":{"name":"spr_PlayerLeft","path":"sprites/spr_PlayerLeft/spr_PlayerLeft.yy",},"order":5,},
+    {"id":{"name":"spr_life","path":"sprites/spr_life/spr_life.yy",},"order":9,},
     {"id":{"name":"spr_Sword","path":"sprites/spr_Sword/spr_Sword.yy",},"order":8,},
     {"id":{"name":"controller","path":"objects/controller/controller.yy",},"order":7,},
     {"id":{"name":"swordObject","path":"objects/swordObject/swordObject.yy",},"order":3,},
