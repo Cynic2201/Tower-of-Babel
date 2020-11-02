@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 676C900C
-/// @DnDArgument : "steps" "controller.shootSpeed * 2"
+/// @DnDArgument : "steps" "15"
 /// @DnDArgument : "alarm" "1"
-alarm_set(1, controller.shootSpeed * 2);
+alarm_set(1, 15);
 
 /// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 /// @DnDVersion : 1

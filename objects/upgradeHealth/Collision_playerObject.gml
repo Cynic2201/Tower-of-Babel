@@ -2,11 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 131F0924
 /// @DnDApplyTo : {controller}
-/// @DnDArgument : "lives" "1"
+/// @DnDArgument : "lives" "2"
 /// @DnDArgument : "lives_relative" "1"
 with(controller) {
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
-__dnd_lives += real(1);
+__dnd_lives += real(2);
 }
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
