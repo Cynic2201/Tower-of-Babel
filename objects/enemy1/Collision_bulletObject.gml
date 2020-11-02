@@ -16,10 +16,12 @@ with(other) instance_destroy();
 /// @DnDVersion : 1
 /// @DnDHash : 51FB1542
 /// @DnDArgument : "expr" "true"
-/// @DnDArgument : "var" "isImmune"
-isImmune = true;
+/// @DnDArgument : "var" "knockBack"
+knockBack = true;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 2A0A6A07
-alarm_set(0, 30);
+/// @DnDArgument : "steps" "5"
+/// @DnDArgument : "alarm" "3"
+alarm_set(3, 5);
