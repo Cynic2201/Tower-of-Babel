@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"nextRoom","path":"objects/nextRoom/nextRoom.yy",},"order":6,},
+    {"id":{"name":"spr_enemyBullet","path":"sprites/spr_enemyBullet/spr_enemyBullet.yy",},"order":17,},
     {"id":{"name":"spr_Health","path":"sprites/spr_Health/spr_Health.yy",},"order":12,},
     {"id":{"name":"RoomWeapon","path":"rooms/RoomWeapon/RoomWeapon.yy",},"order":1,},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":15,},
@@ -8,13 +9,16 @@
     {"id":{"name":"chooseGunObject","path":"objects/chooseGunObject/chooseGunObject.yy",},"order":4,},
     {"id":{"name":"spr_Speed","path":"sprites/spr_Speed/spr_Speed.yy",},"order":10,},
     {"id":{"name":"spr_Bullet","path":"sprites/spr_Bullet/spr_Bullet.yy",},"order":4,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":2,},
     {"id":{"name":"spr_Stairs","path":"sprites/spr_Stairs/spr_Stairs.yy",},"order":14,},
     {"id":{"name":"spr_FireRate","path":"sprites/spr_FireRate/spr_FireRate.yy",},"order":11,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":16,},
     {"id":{"name":"wallObject","path":"objects/wallObject/wallObject.yy",},"order":1,},
     {"id":{"name":"spr_Damage","path":"sprites/spr_Damage/spr_Damage.yy",},"order":13,},
     {"id":{"name":"chooseSwordObject","path":"objects/chooseSwordObject/chooseSwordObject.yy",},"order":5,},
+    {"id":{"name":"enemyTurret","path":"objects/enemyTurret/enemyTurret.yy",},"order":13,},
     {"id":{"name":"spr_PlayerRight","path":"sprites/spr_PlayerRight/spr_PlayerRight.yy",},"order":0,},
+    {"id":{"name":"enemyBullet","path":"objects/enemyBullet/enemyBullet.yy",},"order":14,},
     {"id":{"name":"upgradeSpeed","path":"objects/upgradeSpeed/upgradeSpeed.yy",},"order":8,},
     {"id":{"name":"spr_PlayerUp","path":"sprites/spr_PlayerUp/spr_PlayerUp.yy",},"order":6,},
     {"id":{"name":"spr_PlayerDown","path":"sprites/spr_PlayerDown/spr_PlayerDown.yy",},"order":7,},
@@ -31,6 +35,7 @@
     {"id":{"name":"playerObject","path":"objects/playerObject/playerObject.yy",},"order":0,},
     {"id":{"name":"upgradeFireRate","path":"objects/upgradeFireRate/upgradeFireRate.yy",},"order":9,},
     {"id":{"name":"bulletObject","path":"objects/bulletObject/bulletObject.yy",},"order":2,},
+    {"id":{"name":"spr_enemy2","path":"sprites/spr_enemy2/spr_enemy2.yy",},"order":16,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -50,6 +55,7 @@
   "RoomOrder": [
     {"name":"RoomWeapon","path":"rooms/RoomWeapon/RoomWeapon.yy",},
     {"name":"Room1","path":"rooms/Room1/Room1.yy",},
+    {"name":"Room2","path":"rooms/Room2/Room2.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
