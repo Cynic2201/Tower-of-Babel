@@ -29,9 +29,9 @@ if(item1 == 5)
 	/// @DnDParent : 3AF383B9
 	/// @DnDArgument : "xpos" "390"
 	/// @DnDArgument : "ypos" "390"
-	/// @DnDArgument : "objectid" "enemyBlob"
-	/// @DnDSaveInfo : "objectid" "enemyBlob"
-	instance_create_layer(390, 390, "Instances", enemyBlob);
+	/// @DnDArgument : "objectid" "chooseSwordObject"
+	/// @DnDSaveInfo : "objectid" "chooseSwordObject"
+	instance_create_layer(390, 390, "Instances", chooseSwordObject);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -101,9 +101,9 @@ if(item1 == 4)
 	/// @DnDParent : 70BFE177
 	/// @DnDArgument : "xpos" "390"
 	/// @DnDArgument : "ypos" "390"
-	/// @DnDArgument : "objectid" "upgradeSpeed"
-	/// @DnDSaveInfo : "objectid" "upgradeSpeed"
-	instance_create_layer(390, 390, "Instances", upgradeSpeed);
+	/// @DnDArgument : "objectid" "enemyBullet"
+	/// @DnDSaveInfo : "objectid" "enemyBullet"
+	instance_create_layer(390, 390, "Instances", enemyBullet);
 }
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
@@ -137,9 +137,9 @@ if(item2 == 5)
 	/// @DnDParent : 24DF81D8
 	/// @DnDArgument : "xpos" "990"
 	/// @DnDArgument : "ypos" "390"
-	/// @DnDArgument : "objectid" "enemyBlob"
-	/// @DnDSaveInfo : "objectid" "enemyBlob"
-	instance_create_layer(990, 390, "Instances", enemyBlob);
+	/// @DnDArgument : "objectid" "enemyBullet"
+	/// @DnDSaveInfo : "objectid" "enemyBullet"
+	instance_create_layer(990, 390, "Instances", enemyBullet);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
