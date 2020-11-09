@@ -5,6 +5,7 @@
     {"id":{"name":"spr_enemyBullet","path":"sprites/spr_enemyBullet/spr_enemyBullet.yy",},"order":17,},
     {"id":{"name":"spr_Health","path":"sprites/spr_Health/spr_Health.yy",},"order":12,},
     {"id":{"name":"RoomWeapon","path":"rooms/RoomWeapon/RoomWeapon.yy",},"order":1,},
+    {"id":{"name":"sound_takeDamage","path":"sounds/sound_takeDamage/sound_takeDamage.yy",},"order":3,},
     {"id":{"name":"upgradeShield","path":"objects/upgradeShield/upgradeShield.yy",},"order":18,},
     {"id":{"name":"upgradeDamage","path":"objects/upgradeDamage/upgradeDamage.yy",},"order":10,},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},"order":0,},
@@ -51,7 +52,9 @@
     {"id":{"name":"enemyBomb","path":"objects/enemyBomb/enemyBomb.yy",},"order":15,},
     {"id":{"name":"spr_spikes","path":"sprites/spr_spikes/spr_spikes.yy",},"order":24,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
+    {"id":{"name":"Sound5","path":"sounds/Sound5/Sound5.yy",},"order":4,},
     {"id":{"name":"spr_shield","path":"sprites/spr_shield/spr_shield.yy",},"order":21,},
+    {"id":{"name":"sound_shoot","path":"sounds/sound_shoot/sound_shoot.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
