@@ -1,3 +1,15 @@
+/// @DnDAction : YoYo Games.Rooms.If_Last_Room
+/// @DnDVersion : 1
+/// @DnDHash : 1C65C5AE
+if(room == room_last)
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 537721EF
+	/// @DnDParent : 1C65C5AE
+	instance_destroy();
+}
+
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
 /// @DnDHash : 37E05758

@@ -31,7 +31,7 @@
   ],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"enemyHealth","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"enemyHealth","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"4","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"movingLeft","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"False","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"enemyScore","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"200","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
