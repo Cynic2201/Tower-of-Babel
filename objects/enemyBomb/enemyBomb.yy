@@ -31,6 +31,7 @@
   "properties": [],
   "overriddenProperties": [
     {"propertyId":{"name":"enemyHealth","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"movingLeft","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"False","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
