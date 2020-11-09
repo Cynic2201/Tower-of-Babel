@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 02003D64
-/// @DnDArgument : "lives" "3"
+/// @DnDArgument : "lives" "5"
 
-__dnd_lives = real(3);
+__dnd_lives = real(5);
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1

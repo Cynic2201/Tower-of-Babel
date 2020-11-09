@@ -37,4 +37,10 @@ else
 	/// @DnDArgument : "objectid" "win_message"
 	/// @DnDSaveInfo : "objectid" "win_message"
 	instance_create_layer(x + 0, y + 0, "Instances", win_message);
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 08E0D955
+	/// @DnDParent : 2FFCF192
+	instance_destroy();
 }
