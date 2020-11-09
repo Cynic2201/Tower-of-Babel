@@ -17,6 +17,7 @@
     {"id":{"name":"spr_FireRate","path":"sprites/spr_FireRate/spr_FireRate.yy",},"order":11,},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":16,},
     {"id":{"name":"wallObject","path":"objects/wallObject/wallObject.yy",},"order":1,},
+    {"id":{"name":"Sprite27","path":"sprites/Sprite27/Sprite27.yy",},"order":17,},
     {"id":{"name":"spr_Damage","path":"sprites/spr_Damage/spr_Damage.yy",},"order":13,},
     {"id":{"name":"chooseSwordObject","path":"objects/chooseSwordObject/chooseSwordObject.yy",},"order":5,},
     {"id":{"name":"enemyTurret","path":"objects/enemyTurret/enemyTurret.yy",},"order":13,},
