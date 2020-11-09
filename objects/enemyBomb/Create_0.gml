@@ -3,9 +3,9 @@
 /// @DnDHash : 2B790039
 /// @DnDArgument : "path" "Path1"
 /// @DnDArgument : "speed" "enemySpeed"
-/// @DnDArgument : "atend" "path_action_continue"
+/// @DnDArgument : "atend" "path_action_restart"
 /// @DnDSaveInfo : "path" "Path1"
-path_start(Path1, enemySpeed, path_action_continue, false);
+path_start(Path1, enemySpeed, path_action_restart, false);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
