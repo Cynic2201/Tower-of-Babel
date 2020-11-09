@@ -40,7 +40,8 @@ else
 
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 08E0D955
+	/// @DnDHash : 12D4F2AA
+	/// @DnDApplyTo : {spikesObject}
 	/// @DnDParent : 2FFCF192
-	instance_destroy();
+	with(spikesObject) instance_destroy();
 }
