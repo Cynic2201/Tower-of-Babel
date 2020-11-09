@@ -9,6 +9,13 @@
 controller.hasShield = true;
 controller.hasSpecial = 1;
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 4EE7FA76
+/// @DnDArgument : "soundid" "sound_item"
+/// @DnDSaveInfo : "soundid" "sound_item"
+audio_play_sound(sound_item, 0, 0);
+
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
 /// @DnDHash : 727F45F4

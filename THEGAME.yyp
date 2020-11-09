@@ -60,6 +60,7 @@
     {"id":{"name":"sound_sword","path":"sounds/sound_sword/sound_sword.yy",},"order":7,},
     {"id":{"name":"sound_enemyDamage","path":"sounds/sound_enemyDamage/sound_enemyDamage.yy",},"order":9,},
     {"id":{"name":"sound_shoot","path":"sounds/sound_shoot/sound_shoot.yy",},"order":2,},
+    {"id":{"name":"spr_angrybomb","path":"sprites/spr_angrybomb/spr_angrybomb.yy",},"order":25,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

@@ -5,6 +5,14 @@
 /// @DnDArgument : "value" "false"
 if(isImmune == false)
 {
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 10D540C3
+	/// @DnDParent : 32B5E760
+	/// @DnDArgument : "soundid" "sound_enemyDamage"
+	/// @DnDSaveInfo : "soundid" "sound_enemyDamage"
+	audio_play_sound(sound_enemyDamage, 0, 0);
+
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 7D7161F1

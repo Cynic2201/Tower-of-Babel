@@ -22,3 +22,18 @@ if(distance_to_object(playerObject) < 100)
 	/// @DnDSaveInfo : "objectid" "enemyExplosion"
 	instance_create_layer(x + 0, y + 0, "Instances", enemyExplosion);
 }
+
+/// @DnDAction : YoYo Games.Common.Else
+/// @DnDVersion : 1
+/// @DnDHash : 1A23F90F
+else
+{
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 23FE1D07
+	/// @DnDParent : 1A23F90F
+	/// @DnDArgument : "spriteind" "spr_enemyPath"
+	/// @DnDSaveInfo : "spriteind" "spr_enemyPath"
+	sprite_index = spr_enemyPath;
+	image_index = 0;
+}

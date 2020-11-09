@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 1C47B0BA
+/// @DnDArgument : "soundid" "sound_sword"
+/// @DnDSaveInfo : "soundid" "sound_sword"
+audio_play_sound(sound_sword, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 676C900C

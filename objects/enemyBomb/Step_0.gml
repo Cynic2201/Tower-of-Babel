@@ -13,6 +13,15 @@ if(distance_to_object(playerObject) < 60)
 	/// @DnDArgument : "steps" "10"
 	/// @DnDArgument : "alarm" "6"
 	alarm_set(6, 10);
+
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 7877BFE8
+	/// @DnDParent : 027EF4E0
+	/// @DnDArgument : "spriteind" "spr_angrybomb"
+	/// @DnDSaveInfo : "spriteind" "spr_angrybomb"
+	sprite_index = spr_angrybomb;
+	image_index = 0;
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable

@@ -24,6 +24,14 @@ if(l1B36088A_0)
 	__dnd_score += real(-50);
 	}
 
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 5556CC29
+	/// @DnDParent : 1B36088A
+	/// @DnDArgument : "soundid" "sound_takeDamage"
+	/// @DnDSaveInfo : "soundid" "sound_takeDamage"
+	audio_play_sound(sound_takeDamage, 0, 0);
+
 	/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 	/// @DnDVersion : 1
 	/// @DnDHash : 5CD3F5C2

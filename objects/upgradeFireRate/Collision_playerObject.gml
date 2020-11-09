@@ -9,6 +9,13 @@ shootSpeed = shootSpeed * .66;
 
 }
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 099B74F1
+/// @DnDArgument : "soundid" "sound_item"
+/// @DnDSaveInfo : "soundid" "sound_item"
+audio_play_sound(sound_item, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 1D20C0B1

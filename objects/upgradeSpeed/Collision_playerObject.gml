@@ -10,6 +10,13 @@ moveSpeed += 2;
 
 }
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 36070F4C
+/// @DnDArgument : "soundid" "sound_item"
+/// @DnDSaveInfo : "soundid" "sound_item"
+audio_play_sound(sound_item, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 09FF0FCB

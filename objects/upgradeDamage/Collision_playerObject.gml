@@ -10,6 +10,13 @@ playerDamage += +0.5;
 
 }
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 407C346E
+/// @DnDArgument : "soundid" "sound_item"
+/// @DnDSaveInfo : "soundid" "sound_item"
+audio_play_sound(sound_item, 0, 0);
+
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
 /// @DnDHash : 0E2CE060

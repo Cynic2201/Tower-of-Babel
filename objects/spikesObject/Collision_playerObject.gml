@@ -17,6 +17,14 @@ if(playerObject.canBeSpiked == true)
 	__dnd_lives += real(-1);
 	}
 
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 2AF2B536
+	/// @DnDParent : 4D457032
+	/// @DnDArgument : "soundid" "sound_takeDamage"
+	/// @DnDSaveInfo : "soundid" "sound_takeDamage"
+	audio_play_sound(sound_takeDamage, 0, 0);
+
 	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1
 	/// @DnDHash : 1C45BEF0

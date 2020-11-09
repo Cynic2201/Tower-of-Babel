@@ -6,6 +6,13 @@
 /// @DnDArgument : "var" "controller.enemyCount"
 controller.enemyCount += -1;
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 728AA0DC
+/// @DnDArgument : "soundid" "sound_deadEnemy"
+/// @DnDSaveInfo : "soundid" "sound_deadEnemy"
+audio_play_sound(sound_deadEnemy, 0, 0);
+
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
 /// @DnDHash : 2AA123DF
