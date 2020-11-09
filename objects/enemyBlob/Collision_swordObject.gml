@@ -25,9 +25,9 @@ if(isImmune == false)
 	/// @DnDVersion : 1
 	/// @DnDHash : 45F19ED1
 	/// @DnDParent : 32B5E760
-	/// @DnDArgument : "steps" "5"
+	/// @DnDArgument : "steps" "90"
 	/// @DnDArgument : "alarm" "3"
-	alarm_set(3, 5);
+	alarm_set(3, 90);
 
 	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1

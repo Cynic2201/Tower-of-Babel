@@ -106,8 +106,8 @@ if(l1CAA828E_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 52E754D5
 		/// @DnDParent : 42DF84C7
-		/// @DnDArgument : "speed" "-10"
-		speed = -10;
+		/// @DnDArgument : "speed" "-4"
+		speed = -4;
 	}
 }
 
