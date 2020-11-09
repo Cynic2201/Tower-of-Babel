@@ -17,11 +17,11 @@ audio_play_sound(sound_deadEnemy, 0, 0);
 /// @DnDVersion : 1
 /// @DnDHash : 2AA123DF
 /// @DnDApplyTo : {controller}
-/// @DnDArgument : "score" "100"
+/// @DnDArgument : "score" "other.enemyScore"
 /// @DnDArgument : "score_relative" "1"
 with(controller) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-__dnd_score += real(100);
+__dnd_score += real(other.enemyScore);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
