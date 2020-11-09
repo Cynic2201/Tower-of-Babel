@@ -148,10 +148,3 @@ if(l062C363F_0)
 	/// @DnDArgument : "var" "canShoot"
 	canShoot = false;
 }
-
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1
-/// @DnDHash : 5DE44A57
-/// @DnDArgument : "soundid" "Sound5"
-/// @DnDSaveInfo : "soundid" "Sound5"
-audio_play_sound(Sound5, 0, 0);
