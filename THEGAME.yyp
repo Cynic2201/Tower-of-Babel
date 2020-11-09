@@ -29,7 +29,7 @@
     {"id":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"order":12,},
     {"id":{"name":"spr_life","path":"sprites/spr_life/spr_life.yy",},"order":9,},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},"order":15,},
-    {"id":{"name":"Object20","path":"objects/Object20/Object20.yy",},"order":22,},
+    {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":22,},
     {"id":{"name":"spr_Sword","path":"sprites/spr_Sword/spr_Sword.yy",},"order":8,},
     {"id":{"name":"controller","path":"objects/controller/controller.yy",},"order":7,},
     {"id":{"name":"spr_enemyPath","path":"sprites/spr_enemyPath/spr_enemyPath.yy",},"order":19,},

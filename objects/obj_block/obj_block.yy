@@ -28,7 +28,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object20",
+  "name": "obj_block",
   "tags": [],
   "resourceType": "GMObject",
 }
