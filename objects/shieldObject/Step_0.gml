@@ -60,6 +60,12 @@ if (l429A2B6A_0)
 			/// @DnDArgument : "y" "playerObject.y"
 			x = playerObject.x;
 			y = playerObject.y;
+		
+			/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
+			/// @DnDVersion : 1
+			/// @DnDHash : 679B38C0
+			/// @DnDParent : 127909AA
+			image_angle = 0;
 		}
 	
 		/// @DnDAction : YoYo Games.Common.If_Variable

@@ -28,10 +28,11 @@
     {"isDnD":true,"eventNum":5,"eventType":2,"collisionObjectId":null,"parent":{"name":"enemyTurret","path":"objects/enemyTurret/enemyTurret.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"enemyTurret","path":"objects/enemyTurret/enemyTurret.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":1,"collisionObjectId":null,"parent":{"name":"enemyTurret","path":"objects/enemyTurret/enemyTurret.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":6,"eventType":2,"collisionObjectId":null,"parent":{"name":"enemyTurret","path":"objects/enemyTurret/enemyTurret.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"enemyHealth","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"enemyHealth","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"enemySpeed","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"0","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"enemyFireRate","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"120","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"isImmune","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"0","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},

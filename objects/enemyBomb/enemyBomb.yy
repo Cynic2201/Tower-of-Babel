@@ -27,10 +27,11 @@
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"enemyBomb","path":"objects/enemyBomb/enemyBomb.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"enemyBomb","path":"objects/enemyBomb/enemyBomb.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":6,"eventType":2,"collisionObjectId":null,"parent":{"name":"enemyBomb","path":"objects/enemyBomb/enemyBomb.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"bulletObject","path":"objects/bulletObject/bulletObject.yy",},"parent":{"name":"enemyBomb","path":"objects/enemyBomb/enemyBomb.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"enemyHealth","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"enemyHealth","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"movingLeft","path":"objects/enemyBlob/enemyBlob.yy",},"objectId":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"value":"False","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {

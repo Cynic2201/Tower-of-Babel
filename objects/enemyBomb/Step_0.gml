@@ -22,6 +22,14 @@ if(distance_to_object(playerObject) < 60)
 	/// @DnDSaveInfo : "spriteind" "spr_angrybomb"
 	sprite_index = spr_angrybomb;
 	image_index = 0;
+
+	/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+	/// @DnDVersion : 1
+	/// @DnDHash : 33C404FE
+	/// @DnDParent : 027EF4E0
+	/// @DnDArgument : "speed" "10/12"
+	/// @DnDArgument : "speed_relative" "1"
+	image_speed += 10/12;
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
@@ -41,9 +49,9 @@ if(enemyHealth <= 0)
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 07C101AD
-/// @DnDArgument : "var" "hspeed"
+/// @DnDArgument : "var" "direction"
 /// @DnDArgument : "op" "2"
-if(hspeed > 0)
+if(direction > 0)
 {
 	/// @DnDAction : YoYo Games.Common.If_Expression
 	/// @DnDVersion : 1
@@ -73,9 +81,9 @@ if(hspeed > 0)
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4D132BFE
-/// @DnDArgument : "var" "hspeed"
+/// @DnDArgument : "var" "direction"
 /// @DnDArgument : "op" "1"
-if(hspeed < 0)
+if(direction < 0)
 {
 	/// @DnDAction : YoYo Games.Common.If_Expression
 	/// @DnDVersion : 1

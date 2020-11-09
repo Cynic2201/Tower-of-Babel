@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.25,
+  "volume": 0.15,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sound_item.mp3",
-  "duration": 0.605,
+  "duration": 0.725,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

@@ -12,10 +12,11 @@ if(l4DD37CFF_0)
 	/// @DnDHash : 285A6D7D
 	/// @DnDParent : 4DD37CFF
 	/// @DnDArgument : "xpos_relative" "1"
+	/// @DnDArgument : "ypos" "20"
 	/// @DnDArgument : "ypos_relative" "1"
 	/// @DnDArgument : "objectid" "enemyBullet"
 	/// @DnDSaveInfo : "objectid" "enemyBullet"
-	instance_create_layer(x + 0, y + 0, "Instances", enemyBullet);
+	instance_create_layer(x + 0, y + 20, "Instances", enemyBullet);
 
 	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1
