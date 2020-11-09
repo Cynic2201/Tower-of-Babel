@@ -38,9 +38,10 @@ if(l5E927F24_0)
 	/// @DnDArgument : "y1" "710"
 	/// @DnDArgument : "x2" "900"
 	/// @DnDArgument : "y2" "735"
+	/// @DnDArgument : "value" "((enemyBoss.enemyHealth)/(enemyBoss.maxHealth))*100"
 	/// @DnDArgument : "backcol" "$FF343434"
 	/// @DnDArgument : "barcol" "$FF000000"
 	/// @DnDArgument : "mincol" "$FF0000FF"
 	/// @DnDArgument : "maxcol" "$FF15FF00"
-	draw_healthbar(400, 710, 900, 735, 100, $FF343434 & $FFFFFF, $FF0000FF & $FFFFFF, $FF15FF00 & $FFFFFF, 0, (($FF343434>>24) != 0), (($FF000000>>24) != 0));
+	draw_healthbar(400, 710, 900, 735, ((enemyBoss.enemyHealth)/(enemyBoss.maxHealth))*100, $FF343434 & $FFFFFF, $FF0000FF & $FFFFFF, $FF15FF00 & $FFFFFF, 0, (($FF343434>>24) != 0), (($FF000000>>24) != 0));
 }

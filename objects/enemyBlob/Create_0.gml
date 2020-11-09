@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 5E09DAE1
+/// @DnDArgument : "expr" "enemyHealth"
+/// @DnDArgument : "var" "maxHealth"
+maxHealth = enemyHealth;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 72E4F16D
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "expr_relative" "1"
