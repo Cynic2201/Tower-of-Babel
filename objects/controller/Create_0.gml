@@ -5,6 +5,12 @@
 
 __dnd_lives = real(3);
 
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 7A57CEEE
+
+__dnd_score = real(0);
+
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 1C5D8248

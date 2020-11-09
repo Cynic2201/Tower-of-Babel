@@ -19,6 +19,18 @@ if(l5E3C49E3_0)
 	__dnd_lives += real(-1);
 	}
 
+	/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+	/// @DnDVersion : 1
+	/// @DnDHash : 66CDD5A1
+	/// @DnDApplyTo : {controller}
+	/// @DnDParent : 5E3C49E3
+	/// @DnDArgument : "score" "-50"
+	/// @DnDArgument : "score_relative" "1"
+	with(controller) {
+	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+	__dnd_score += real(-50);
+	}
+
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 1E9549C9

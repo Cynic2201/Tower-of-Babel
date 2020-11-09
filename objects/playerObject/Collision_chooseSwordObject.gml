@@ -19,6 +19,16 @@ with(chooseGunObject) instance_destroy();
 /// @DnDSaveInfo : "objectid" "nextRoom"
 instance_create_layer(683, 384, "Instances", nextRoom);
 
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 11061F63
+/// @DnDApplyTo : {controller}
+/// @DnDArgument : "score" "+1000"
+with(controller) {
+
+__dnd_score = real(+1000);
+}
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 7747065E

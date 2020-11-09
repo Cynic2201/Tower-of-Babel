@@ -12,6 +12,18 @@ instance_destroy();
 with(playerObject) var l1B36088A_0 = isImmune == false;
 if(l1B36088A_0)
 {
+	/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+	/// @DnDVersion : 1
+	/// @DnDHash : 578A4CB0
+	/// @DnDApplyTo : {controller}
+	/// @DnDParent : 1B36088A
+	/// @DnDArgument : "score" "-50"
+	/// @DnDArgument : "score_relative" "1"
+	with(controller) {
+	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+	__dnd_score += real(-50);
+	}
+
 	/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 	/// @DnDVersion : 1
 	/// @DnDHash : 5CD3F5C2

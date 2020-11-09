@@ -2,11 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 1F15F16A
 /// @DnDApplyTo : {controller}
-/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "expr" "2"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "moveSpeed"
 with(controller) {
-moveSpeed += 3;
+moveSpeed += 2;
 
 }
 
@@ -49,4 +49,22 @@ if(controller.testing == false)
 	/// @DnDApplyTo : {upgradeDamage}
 	/// @DnDParent : 60DC946D
 	with(upgradeDamage) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 6CAEA57F
+	/// @DnDApplyTo : {upgradeShield}
+	/// @DnDParent : 60DC946D
+	with(upgradeShield) instance_destroy();
+}
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 03D1C9F0
+/// @DnDApplyTo : {controller}
+/// @DnDArgument : "score" "-50"
+/// @DnDArgument : "score_relative" "1"
+with(controller) {
+if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+__dnd_score += real(-50);
 }

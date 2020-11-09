@@ -48,4 +48,22 @@ if(controller.testing == false)
 	/// @DnDApplyTo : {upgradeDamage}
 	/// @DnDParent : 62B3A57C
 	with(upgradeDamage) instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 32C31204
+	/// @DnDApplyTo : {upgradeShield}
+	/// @DnDParent : 62B3A57C
+	with(upgradeShield) instance_destroy();
+}
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 1EC020EE
+/// @DnDApplyTo : {controller}
+/// @DnDArgument : "score" "-50"
+/// @DnDArgument : "score_relative" "1"
+with(controller) {
+if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+__dnd_score += real(-50);
 }
