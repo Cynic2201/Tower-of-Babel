@@ -21,6 +21,7 @@
     {"isDnD":true,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"loss_message","path":"objects/loss_message/loss_message.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":82,"eventType":9,"collisionObjectId":null,"parent":{"name":"loss_message","path":"objects/loss_message/loss_message.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":27,"eventType":9,"collisionObjectId":null,"parent":{"name":"loss_message","path":"objects/loss_message/loss_message.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"loss_message","path":"objects/loss_message/loss_message.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

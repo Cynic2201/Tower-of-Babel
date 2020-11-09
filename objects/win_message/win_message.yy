@@ -4,10 +4,7 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "loss_message",
-    "path": "objects/loss_message/loss_message.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -22,6 +19,8 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"win_message","path":"objects/win_message/win_message.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":27,"eventType":9,"collisionObjectId":null,"parent":{"name":"win_message","path":"objects/win_message/win_message.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":82,"eventType":9,"collisionObjectId":null,"parent":{"name":"win_message","path":"objects/win_message/win_message.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

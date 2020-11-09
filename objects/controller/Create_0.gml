@@ -16,3 +16,11 @@ __dnd_score = real(0);
 /// @DnDHash : 1C5D8248
 /// @DnDArgument : "code" "randomize();"
 randomize();
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 07940A4D
+/// @DnDArgument : "soundid" "music_main"
+/// @DnDArgument : "loop" "1"
+/// @DnDSaveInfo : "soundid" "music_main"
+audio_play_sound(music_main, 0, 1);
