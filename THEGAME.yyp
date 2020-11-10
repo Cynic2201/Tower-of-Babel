@@ -7,6 +7,7 @@
     {"id":{"name":"RoomWeapon","path":"rooms/RoomWeapon/RoomWeapon.yy",},"order":1,},
     {"id":{"name":"sound_takeDamage","path":"sounds/sound_takeDamage/sound_takeDamage.yy",},"order":3,},
     {"id":{"name":"upgradeShield","path":"objects/upgradeShield/upgradeShield.yy",},"order":18,},
+    {"id":{"name":"sound_victory","path":"sounds/sound_victory/sound_victory.yy",},"order":10,},
     {"id":{"name":"upgradeDamage","path":"objects/upgradeDamage/upgradeDamage.yy",},"order":10,},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},"order":0,},
     {"id":{"name":"chooseGunObject","path":"objects/chooseGunObject/chooseGunObject.yy",},"order":4,},
