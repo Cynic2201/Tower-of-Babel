@@ -16,8 +16,9 @@ if(enemyHealth <= 0)
 	/// @DnDHash : 290798F4
 	/// @DnDParent : 3F527AE4
 	/// @DnDArgument : "objectid" "win_message"
+	/// @DnDArgument : "layer" ""Instances_2""
 	/// @DnDSaveInfo : "objectid" "win_message"
-	instance_create_layer(0, 0, "Instances", win_message);
+	instance_create_layer(0, 0, "Instances_2", win_message);
 }
 
 /// @DnDAction : YoYo Games.Common.Else
