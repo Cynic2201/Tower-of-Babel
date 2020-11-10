@@ -1,0 +1,48 @@
+{
+  "spriteId": {
+    "name": "spr_GatlingSlime",
+    "path": "sprites/spr_GatlingSlime/spr_GatlingSlime.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_EnemyTurret",
+    "path": "objects/obj_EnemyTurret/obj_EnemyTurret.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":5,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_EnemyGatling","path":"objects/obj_EnemyGatling/obj_EnemyGatling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":7,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_EnemyGatling","path":"objects/obj_EnemyGatling/obj_EnemyGatling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_EnemyGatling","path":"objects/obj_EnemyGatling/obj_EnemyGatling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_EnemyGatling","path":"objects/obj_EnemyGatling/obj_EnemyGatling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":8,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_EnemyGatling","path":"objects/obj_EnemyGatling/obj_EnemyGatling.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [
+    {"varType":3,"value":"True","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"resting","tags":[],"resourceType":"GMObjectProperty",},
+  ],
+  "overriddenProperties": [
+    {"propertyId":{"name":"enemyFireRate","path":"objects/obj_EnemyBlob/obj_EnemyBlob.yy",},"objectId":{"name":"obj_EnemyBlob","path":"objects/obj_EnemyBlob/obj_EnemyBlob.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"enemyHealth","path":"objects/obj_EnemyBlob/obj_EnemyBlob.yy",},"objectId":{"name":"obj_EnemyBlob","path":"objects/obj_EnemyBlob/obj_EnemyBlob.yy",},"value":"12","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "Objects",
+    "path": "folders/Objects.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_EnemyGatling",
+  "tags": [],
+  "resourceType": "GMObject",
+}
