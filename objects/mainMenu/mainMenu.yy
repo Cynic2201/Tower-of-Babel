@@ -20,6 +20,7 @@
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"mainMenu","path":"objects/mainMenu/mainMenu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":13,"eventType":9,"collisionObjectId":null,"parent":{"name":"mainMenu","path":"objects/mainMenu/mainMenu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":27,"eventType":9,"collisionObjectId":null,"parent":{"name":"mainMenu","path":"objects/mainMenu/mainMenu.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
