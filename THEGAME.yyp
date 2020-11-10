@@ -52,7 +52,7 @@
     {"id":{"name":"laserObject","path":"objects/laserObject/laserObject.yy",},"order":25,},
     {"id":{"name":"music_mainMenu","path":"sounds/music_mainMenu/music_mainMenu.yy",},"order":12,},
     {"id":{"name":"enemyExplosion","path":"objects/enemyExplosion/enemyExplosion.yy",},"order":16,},
-    {"id":{"name":"obj_loss_message","path":"objects/obj_loss_message/obj_loss_message.yy",},"order":21,},
+    {"id":{"name":"loss_message","path":"objects/loss_message/loss_message.yy",},"order":21,},
     {"id":{"name":"upgradeHealth","path":"objects/upgradeHealth/upgradeHealth.yy",},"order":11,},
     {"id":{"name":"mainMenu","path":"objects/mainMenu/mainMenu.yy",},"order":23,},
     {"id":{"name":"playerObject","path":"objects/playerObject/playerObject.yy",},"order":0,},

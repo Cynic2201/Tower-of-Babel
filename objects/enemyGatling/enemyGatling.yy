@@ -1,22 +1,7 @@
 {
   "spriteId": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "name": "spr_GatlingSlime",
-    "path": "sprites/spr_GatlingSlime/spr_GatlingSlime.yy",
-=======
     "name": "spr_gatlingSlime",
     "path": "sprites/spr_gatlingSlime/spr_gatlingSlime.yy",
->>>>>>> parent of eb55b6d... Merge branch 'master' of https://github.com/pokemon2201/Tower-of-Babel
-=======
-    "name": "spr_gatlingSlime",
-    "path": "sprites/spr_gatlingSlime/spr_gatlingSlime.yy",
->>>>>>> parent of eb55b6d... Merge branch 'master' of https://github.com/pokemon2201/Tower-of-Babel
-=======
-    "name": "spr_gatlingSlime",
-    "path": "sprites/spr_gatlingSlime/spr_gatlingSlime.yy",
->>>>>>> parent of eb55b6d... Merge branch 'master' of https://github.com/pokemon2201/Tower-of-Babel
   },
   "solid": false,
   "visible": true,
