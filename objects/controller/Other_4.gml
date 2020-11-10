@@ -9,8 +9,8 @@ var currentRoom = room;
 /// @DnDVersion : 1
 /// @DnDHash : 73F811F3
 /// @DnDArgument : "var" "currentRoom"
-/// @DnDArgument : "value" "4"
-if(currentRoom == 4)
+/// @DnDArgument : "value" "5"
+if(currentRoom == 5)
 {
 	/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
 	/// @DnDVersion : 1
@@ -32,7 +32,8 @@ if(currentRoom == 4)
 /// @DnDVersion : 1
 /// @DnDHash : 0F30CB39
 /// @DnDArgument : "var" "currentRoom"
-if(currentRoom == 0)
+/// @DnDArgument : "value" "1"
+if(currentRoom == 1)
 {
 	/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
 	/// @DnDVersion : 1
