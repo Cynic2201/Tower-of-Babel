@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_shield",
-    "path": "sprites/spr_shield/spr_shield.yy",
+    "name": "spr_Shield",
+    "path": "sprites/spr_Shield/spr_Shield.yy",
   },
   "solid": false,
   "visible": true,
