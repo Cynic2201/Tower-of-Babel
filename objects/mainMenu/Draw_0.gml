@@ -61,8 +61,8 @@ draw_text_transformed(x + 0, y + 555, string("Producer: Devin Williams") + "", 2
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "xscale" "2"
 /// @DnDArgument : "yscale" "2"
-/// @DnDArgument : "caption" ""Producer: Devin Williams""
-draw_text_transformed(x + 0, y + 610, string("Producer: Devin Williams") + "", 2, 2, 0);
+/// @DnDArgument : "caption" ""Programmer: Tarler Stack""
+draw_text_transformed(x + 0, y + 610, string("Programmer: Tarler Stack") + "", 2, 2, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
@@ -73,8 +73,8 @@ draw_text_transformed(x + 0, y + 610, string("Producer: Devin Williams") + "", 2
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "xscale" "2"
 /// @DnDArgument : "yscale" "2"
-/// @DnDArgument : "caption" ""Producer: Devin Williams""
-draw_text_transformed(x + 500, y + 555, string("Producer: Devin Williams") + "", 2, 2, 0);
+/// @DnDArgument : "caption" ""Designer: Gabriel Peterson""
+draw_text_transformed(x + 500, y + 555, string("Designer: Gabriel Peterson") + "", 2, 2, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
@@ -85,5 +85,5 @@ draw_text_transformed(x + 500, y + 555, string("Producer: Devin Williams") + "",
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "xscale" "2"
 /// @DnDArgument : "yscale" "2"
-/// @DnDArgument : "caption" ""Producer: Devin Williams""
-draw_text_transformed(x + 500, y + 610, string("Producer: Devin Williams") + "", 2, 2, 0);
+/// @DnDArgument : "caption" ""Artist: Tyler Johnson""
+draw_text_transformed(x + 500, y + 610, string("Artist: Tyler Johnson") + "", 2, 2, 0);
