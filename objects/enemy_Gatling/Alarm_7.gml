@@ -8,9 +8,9 @@ resting = false;
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 1F9BFC7F
-/// @DnDArgument : "spriteind" "spr_gatlingshooting"
-/// @DnDSaveInfo : "spriteind" "spr_gatlingshooting"
-sprite_index = spr_gatlingshooting;
+/// @DnDArgument : "spriteind" "spr_gatlingShooting"
+/// @DnDSaveInfo : "spriteind" "spr_gatlingShooting"
+sprite_index = spr_gatlingShooting;
 image_index = 0;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm

@@ -10,9 +10,9 @@ controller.enemyCount += 1;
 /// @DnDVersion : 1
 /// @DnDHash : 2CCC852F
 /// @DnDArgument : "imageind" "1"
-/// @DnDArgument : "spriteind" "spr_gatlingslime"
-/// @DnDSaveInfo : "spriteind" "spr_gatlingslime"
-sprite_index = spr_gatlingslime;
+/// @DnDArgument : "spriteind" "spr_gatlingSlime"
+/// @DnDSaveInfo : "spriteind" "spr_gatlingSlime"
+sprite_index = spr_gatlingSlime;
 image_index = 1;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm

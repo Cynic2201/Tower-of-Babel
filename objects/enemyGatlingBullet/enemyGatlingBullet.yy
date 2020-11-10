@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_gatlingbullet",
-    "path": "sprites/spr_gatlingbullet/spr_gatlingbullet.yy",
+    "name": "spr_gatlingBullet",
+    "path": "sprites/spr_gatlingBullet/spr_gatlingBullet.yy",
   },
   "solid": false,
   "visible": true,
