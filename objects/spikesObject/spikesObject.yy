@@ -1,6 +1,7 @@
 {
   "spriteId": {
 <<<<<<< HEAD:objects/spikesObject/spikesObject.yy
+<<<<<<< HEAD:objects/spikesObject/spikesObject.yy
 <<<<<<< HEAD
     "name": "spr_Spikes",
     "path": "sprites/spr_Spikes/spr_Spikes.yy",
@@ -8,6 +9,10 @@
     "name": "spr_spikes",
     "path": "sprites/spr_spikes/spr_spikes.yy",
 >>>>>>> parent of eb55b6d... Merge branch 'master' of https://github.com/pokemon2201/Tower-of-Babel
+=======
+    "name": "spr_spikes",
+    "path": "sprites/spr_spikes/spr_spikes.yy",
+>>>>>>> parent of eb55b6d... Merge branch 'master' of https://github.com/pokemon2201/Tower-of-Babel:objects/obj_Spikes/obj_Spikes.yy
 =======
     "name": "spr_spikes",
     "path": "sprites/spr_spikes/spr_spikes.yy",

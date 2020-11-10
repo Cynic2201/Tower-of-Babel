@@ -1,6 +1,7 @@
 {
   "spriteId": {
 <<<<<<< HEAD:objects/enemyGatlingBullet/enemyGatlingBullet.yy
+<<<<<<< HEAD:objects/enemyGatlingBullet/enemyGatlingBullet.yy
 <<<<<<< HEAD
     "name": "spr_GatlingBullet",
     "path": "sprites/spr_GatlingBullet/spr_GatlingBullet.yy",
@@ -8,6 +9,10 @@
     "name": "spr_gatlingBullet",
     "path": "sprites/spr_gatlingBullet/spr_gatlingBullet.yy",
 >>>>>>> parent of eb55b6d... Merge branch 'master' of https://github.com/pokemon2201/Tower-of-Babel
+=======
+    "name": "spr_gatlingBullet",
+    "path": "sprites/spr_gatlingBullet/spr_gatlingBullet.yy",
+>>>>>>> parent of eb55b6d... Merge branch 'master' of https://github.com/pokemon2201/Tower-of-Babel:objects/obj_EnemyGatlingBullet/obj_EnemyGatlingBullet.yy
 =======
     "name": "spr_gatlingBullet",
     "path": "sprites/spr_gatlingBullet/spr_gatlingBullet.yy",
