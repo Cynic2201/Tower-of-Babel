@@ -1,7 +1,22 @@
 {
   "spriteId": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "name": "spr_Enemy2",
+    "path": "sprites/spr_Enemy2/spr_Enemy2.yy",
+=======
     "name": "spr_enemy2",
     "path": "sprites/spr_enemy2/spr_enemy2.yy",
+>>>>>>> parent of eb55b6d... Merge branch 'master' of https://github.com/pokemon2201/Tower-of-Babel
+=======
+    "name": "spr_enemy2",
+    "path": "sprites/spr_enemy2/spr_enemy2.yy",
+>>>>>>> parent of eb55b6d... Merge branch 'master' of https://github.com/pokemon2201/Tower-of-Babel
+=======
+    "name": "spr_enemy2",
+    "path": "sprites/spr_enemy2/spr_enemy2.yy",
+>>>>>>> parent of eb55b6d... Merge branch 'master' of https://github.com/pokemon2201/Tower-of-Babel
   },
   "solid": false,
   "visible": true,
