@@ -19,14 +19,14 @@ if(isImmune == false)
 	/// @DnDInput : 3
 	/// @DnDParent : 32B5E760
 	/// @DnDArgument : "expr" "true"
-	/// @DnDArgument : "expr_1" "-controller.playerDamage * 2"
+	/// @DnDArgument : "expr_1" "-controller.playerDamage * 1.5"
 	/// @DnDArgument : "expr_relative_1" "1"
 	/// @DnDArgument : "expr_2" "true"
 	/// @DnDArgument : "var" "isImmune"
 	/// @DnDArgument : "var_1" "enemyHealth"
 	/// @DnDArgument : "var_2" "knockBack"
 	isImmune = true;
-	enemyHealth += -controller.playerDamage * 2;
+	enemyHealth += -controller.playerDamage * 1.5;
 	knockBack = true;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Alarm
