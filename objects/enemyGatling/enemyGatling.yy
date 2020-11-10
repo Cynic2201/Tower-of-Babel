@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_gatlingSlime",
-    "path": "sprites/spr_gatlingSlime/spr_gatlingSlime.yy",
+    "name": "spr_GatlingSlime",
+    "path": "sprites/spr_GatlingSlime/spr_GatlingSlime.yy",
   },
   "solid": false,
   "visible": true,

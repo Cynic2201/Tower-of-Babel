@@ -5,13 +5,13 @@
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "-65"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "sprite" "spr_life"
-/// @DnDSaveInfo : "sprite" "spr_life"
-var l7954204E_0 = sprite_get_width(spr_life);
+/// @DnDArgument : "sprite" "spr_Life"
+/// @DnDSaveInfo : "sprite" "spr_Life"
+var l7954204E_0 = sprite_get_width(spr_Life);
 var l7954204E_1 = 0;
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
 for(var l7954204E_2 = __dnd_lives; l7954204E_2 > 0; --l7954204E_2) {
-	draw_sprite(spr_life, 0, x + 10 + l7954204E_1, y + -65);
+	draw_sprite(spr_Life, 0, x + 10 + l7954204E_1, y + -65);
 	l7954204E_1 += l7954204E_0;
 }
 
