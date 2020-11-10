@@ -18,9 +18,9 @@ if(distance_to_object(playerObject) < 60)
 	/// @DnDVersion : 1
 	/// @DnDHash : 7877BFE8
 	/// @DnDParent : 027EF4E0
-	/// @DnDArgument : "spriteind" "spr_AngryBomb"
-	/// @DnDSaveInfo : "spriteind" "spr_AngryBomb"
-	sprite_index = spr_AngryBomb;
+	/// @DnDArgument : "spriteind" "spr_angrybomb"
+	/// @DnDSaveInfo : "spriteind" "spr_angrybomb"
+	sprite_index = spr_angrybomb;
 	image_index = 0;
 
 	/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed

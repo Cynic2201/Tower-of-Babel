@@ -16,9 +16,9 @@ controller.enemyCount += 1;
 /// @DnDVersion : 1
 /// @DnDHash : 74E17434
 /// @DnDArgument : "imageind" "1"
-/// @DnDArgument : "spriteind" "spr_Enemy2"
-/// @DnDSaveInfo : "spriteind" "spr_Enemy2"
-sprite_index = spr_Enemy2;
+/// @DnDArgument : "spriteind" "spr_enemy2"
+/// @DnDSaveInfo : "spriteind" "spr_enemy2"
+sprite_index = spr_enemy2;
 image_index = 1;
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number

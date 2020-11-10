@@ -3,9 +3,9 @@
 /// @DnDHash : 2B2FDDF3
 /// @DnDArgument : "imageind" "1"
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "spr_Enemy2"
-/// @DnDSaveInfo : "spriteind" "spr_Enemy2"
-sprite_index = spr_Enemy2;
+/// @DnDArgument : "spriteind" "spr_enemy2"
+/// @DnDSaveInfo : "spriteind" "spr_enemy2"
+sprite_index = spr_enemy2;
 image_index += 1;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
