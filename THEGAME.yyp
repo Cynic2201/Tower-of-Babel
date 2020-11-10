@@ -39,6 +39,7 @@
     {"id":{"name":"sound_deadEnemy","path":"sounds/sound_deadEnemy/sound_deadEnemy.yy",},"order":6,},
     {"id":{"name":"enemyBlob","path":"objects/enemyBlob/enemyBlob.yy",},"order":12,},
     {"id":{"name":"spr_life","path":"sprites/spr_life/spr_life.yy",},"order":9,},
+    {"id":{"name":"Sound11","path":"sounds/Sound11/Sound11.yy",},"order":11,},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},"order":15,},
     {"id":{"name":"blockObject","path":"objects/blockObject/blockObject.yy",},"order":19,},
     {"id":{"name":"spr_Sword","path":"sprites/spr_Sword/spr_Sword.yy",},"order":8,},

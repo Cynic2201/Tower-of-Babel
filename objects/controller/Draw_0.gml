@@ -23,6 +23,14 @@ draw_set_colour($FF000000 & $ffffff);
 var l1FF90C2A_0=($FF000000 >> 24);
 draw_set_alpha(l1FF90C2A_0 / $ff);
 
+/// @DnDAction : YoYo Games.Instance Variables.Get_Score
+/// @DnDVersion : 1
+/// @DnDHash : 50889265
+/// @DnDArgument : "var" "tempscore"
+/// @DnDArgument : "var_temp" "1"
+if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+var tempscore = __dnd_score;
+
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
 /// @DnDHash : 32378DE7
@@ -33,8 +41,8 @@ draw_set_alpha(l1FF90C2A_0 / $ff);
 /// @DnDArgument : "xscale" "4"
 /// @DnDArgument : "yscale" "4"
 /// @DnDArgument : "caption" ""Score:  ""
-/// @DnDArgument : "text" "score"
-draw_text_transformed(x + 800, y + -75, string("Score:  ") + string(score), 4, 4, 0);
+/// @DnDArgument : "text" "tempscore"
+draw_text_transformed(x + 800, y + -75, string("Score:  ") + string(tempscore), 4, 4, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1

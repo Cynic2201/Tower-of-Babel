@@ -1,34 +1,40 @@
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
-/// @DnDHash : 0E191E2E
-/// @DnDArgument : "x" "630"
-/// @DnDArgument : "y" "210"
-/// @DnDArgument : "caption" ""Game Over""
-draw_text(630, 210, string("Game Over") + "");
-
-/// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
-/// @DnDVersion : 1
-/// @DnDHash : 0BC8176F
-/// @DnDApplyTo : {controller}
-/// @DnDArgument : "x" "630"
-/// @DnDArgument : "y" "300"
-with(controller) {
-if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-draw_text(630, 300, string("Score: ") + string(__dnd_score));
-}
-
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
-/// @DnDVersion : 1
-/// @DnDHash : 2712F25E
-/// @DnDArgument : "x" "630"
+/// @DnDHash : 4976E475
+/// @DnDArgument : "x" "615"
 /// @DnDArgument : "y" "240"
-/// @DnDArgument : "caption" ""Restart? (R)""
-draw_text(630, 240, string("Restart? (R)") + "");
+/// @DnDArgument : "xscale" "2"
+/// @DnDArgument : "yscale" "2"
+/// @DnDArgument : "caption" ""Game Over""
+draw_text_transformed(615, 240, string("Game Over") + "", 2, 2, 0);
 
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
-/// @DnDHash : 7C3993A0
-/// @DnDArgument : "x" "630"
-/// @DnDArgument : "y" "270"
+/// @DnDHash : 23DA1381
+/// @DnDArgument : "x" "615"
+/// @DnDArgument : "y" "300"
+/// @DnDArgument : "xscale" "2"
+/// @DnDArgument : "yscale" "2"
+/// @DnDArgument : "caption" ""Score:  ""
+/// @DnDArgument : "text" "score"
+draw_text_transformed(615, 300, string("Score:  ") + string(score), 2, 2, 0);
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+/// @DnDVersion : 1
+/// @DnDHash : 5426A1A5
+/// @DnDArgument : "x" "615"
+/// @DnDArgument : "y" "360"
+/// @DnDArgument : "xscale" "2"
+/// @DnDArgument : "yscale" "2"
+/// @DnDArgument : "caption" ""Restart? (R)""
+draw_text_transformed(615, 360, string("Restart? (R)") + "", 2, 2, 0);
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+/// @DnDVersion : 1
+/// @DnDHash : 723063E8
+/// @DnDArgument : "x" "615"
+/// @DnDArgument : "y" "420"
+/// @DnDArgument : "xscale" "2"
+/// @DnDArgument : "yscale" "2"
 /// @DnDArgument : "caption" ""Exit? (Esc)""
-draw_text(630, 270, string("Exit? (Esc)") + "");
+draw_text_transformed(615, 420, string("Exit? (Esc)") + "", 2, 2, 0);
