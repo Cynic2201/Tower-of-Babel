@@ -32,8 +32,8 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 23FE1D07
 	/// @DnDParent : 1A23F90F
-	/// @DnDArgument : "spriteind" "spr_enemyPath"
-	/// @DnDSaveInfo : "spriteind" "spr_enemyPath"
-	sprite_index = spr_enemyPath;
+	/// @DnDArgument : "spriteind" "spr_EnemyPath"
+	/// @DnDSaveInfo : "spriteind" "spr_EnemyPath"
+	sprite_index = spr_EnemyPath;
 	image_index = 0;
 }

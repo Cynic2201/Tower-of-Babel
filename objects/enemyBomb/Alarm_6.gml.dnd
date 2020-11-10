@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 <Layouts><Layout layout_name="DnDWorkspace" layout_guid="d94f5c34-2892-479a-a55e-2df1ebd42fe7" toolbox_size="25%" toolbox_anchor="Last" story_size="150px"><Workspace zoom="1" pan="[42.9, 363]" /><Node hash="0098CC39" left="97" top="137" width="232" height="155" /><Node hash="1BF1BD84" left="213" top="302" width="222" height="35" /><Node hash="6DD0708C" left="199" top="347" width="250" height="185" /><Node hash="1A23F90F" left="113" top="542" width="200" height="35" /><Node hash="23FE1D07" left="213" top="587" width="250" height="95" /></Layout></Layouts>
+=======
+<Layouts><Layout layout_name="DnDWorkspace" layout_guid="cf132ee8-0f88-48cf-9a3f-9aac618ccecf" toolbox_size="25%" toolbox_anchor="Last" story_size="150px"><Workspace zoom="1" pan="[42.9, 163]" /><Node hash="0098CC39" left="97" top="137" width="232" height="155" /><Node hash="1BF1BD84" left="213" top="302" width="222" height="35" /><Node hash="6DD0708C" left="199" top="347" width="250" height="185" /><Node hash="1A23F90F" left="113" top="542" width="200" height="35" /><Node hash="23FE1D07" left="213" top="587" width="250" height="95" /></Layout></Layouts>
+>>>>>>> Stashed changes
