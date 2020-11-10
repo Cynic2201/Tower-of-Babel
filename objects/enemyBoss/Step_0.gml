@@ -10,6 +10,14 @@ if(enemyHealth <= 0)
 	/// @DnDHash : 3B712FE3
 	/// @DnDParent : 3F527AE4
 	instance_destroy();
+
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 290798F4
+	/// @DnDParent : 3F527AE4
+	/// @DnDArgument : "objectid" "win_message"
+	/// @DnDSaveInfo : "objectid" "win_message"
+	instance_create_layer(0, 0, "Instances", win_message);
 }
 
 /// @DnDAction : YoYo Games.Common.Else
