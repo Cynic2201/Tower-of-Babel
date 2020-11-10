@@ -12,8 +12,9 @@ if(l4137DEF4_0)
 	/// @DnDHash : 6942381F
 	/// @DnDParent : 4137DEF4
 	/// @DnDArgument : "var" "resting"
+	/// @DnDArgument : "not" "1"
 	/// @DnDArgument : "value" "true"
-	if(resting == true)
+	if(!(resting == true))
 	{
 		/// @DnDAction : YoYo Games.Instances.Create_Instance
 		/// @DnDVersion : 1

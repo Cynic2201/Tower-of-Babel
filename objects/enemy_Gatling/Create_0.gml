@@ -18,6 +18,6 @@ image_index = 1;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 2D4F018A
-/// @DnDArgument : "steps" "180"
+/// @DnDArgument : "steps" "220"
 /// @DnDArgument : "alarm" "7"
-alarm_set(7, 180);
+alarm_set(7, 220);

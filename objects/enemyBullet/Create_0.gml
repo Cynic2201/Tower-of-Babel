@@ -7,7 +7,7 @@ depth = -1;
 
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Point
 /// @DnDVersion : 1
-/// @DnDHash : 5F1623D4
+/// @DnDHash : 77F6D00A
 /// @DnDArgument : "x" "playerObject.x"
 /// @DnDArgument : "y" "playerObject.y"
 direction = point_direction(x, y, playerObject.x, playerObject.y);
