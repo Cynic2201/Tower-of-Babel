@@ -20,11 +20,12 @@ if(l4137DEF4_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 011E88BD
 		/// @DnDParent : 6942381F
+		/// @DnDArgument : "xpos" "-60"
 		/// @DnDArgument : "xpos_relative" "1"
 		/// @DnDArgument : "ypos_relative" "1"
 		/// @DnDArgument : "objectid" "enemyGatlingBullet"
 		/// @DnDSaveInfo : "objectid" "enemyGatlingBullet"
-		instance_create_layer(x + 0, y + 0, "Instances", enemyGatlingBullet);
+		instance_create_layer(x + -60, y + 0, "Instances", enemyGatlingBullet);
 	
 		/// @DnDAction : YoYo Games.Instances.Set_Alarm
 		/// @DnDVersion : 1
